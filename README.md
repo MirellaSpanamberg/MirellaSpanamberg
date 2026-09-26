@@ -8,6 +8,12 @@ Bem-vindo(a) ao meu GitHub! 👋
 
 Sou estudante da área de Tecnologia da Informação e estou construindo minha trajetória como desenvolvedora. Gosto de transformar ideias em projetos, resolver problemas e aprender novas tecnologias na prática.
 
+Cursos
+
+técnico em desenvolvimento de sistema
+técnico em informática para internet 
+técnico em manutenção e suporte em informática 
+
 ## 🌐 Entre em contato
 
 <p align="left">
